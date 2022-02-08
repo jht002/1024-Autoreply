@@ -5,7 +5,7 @@ import onetimepass as otp
 from time import sleep
 import os
 from getver1 import Getver
-from multiprocessing import Pool
+from getver import Getver
 from config import config
 
 class Autoreply:
